@@ -156,15 +156,15 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-phone gradient"></i>
-                                    <span>+91 123-456-7890<br/>+91 987-654-3210</span>
+                                    <span>+91 9744353637</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <span>info@example.com <br/>info@example.com</span>
+                                    <span>medhadigitalsolutions@gmail.com <br/></span>
                                 </li>
                                 <li>
                                     <i class="fa fa-map-marker gradient"></i>
-                                    <span>Marmora Road Chi Minh City, Vietnam</span>
+                                    <span>Medha Digital Solutions<br/>CP 13/6(Rama Nilayam)<br/>East Nada- SreeRaghavapuram Sabhayogam Temple<br/> Cheruthazham, Mandur(PO)<br/>Kannur(Dist), Kerala(State)<br/>670501</span>
                                 </li>
                             </ul>
                         </div>
@@ -177,7 +177,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-12 text-center">
-                        <span class="copyright-text">Copyright © 2020 Medha Digital All rights reserved.</span>
+                        <span class="copyright-text">Copyright © 2021 Medha Digital All rights reserved.</span>
                     </div>
                 </div>
             </div>
