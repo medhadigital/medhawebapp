@@ -37,7 +37,7 @@
                 <div class="container clearfix">
                     <!-- Website Logo -->
                     <div class="logo-header">
-                        <a href="/"><img class="logo-3" src="images/logo-white.png" alt=""></a>
+                        <a href="/"><img class="logo-3" src="images/medha.png" alt=""></a>
                     </div>
                     <!-- Nav Toggle Button -->
                     <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
