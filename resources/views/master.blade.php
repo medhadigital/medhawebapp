@@ -156,15 +156,15 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-phone gradient"></i>
-                                    <span>+91 123-456-7890<br/>+91 987-654-3210</span>
+                                    <span>+91 9744353637<br/>+91 987-654-3210</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <span>info@example.com <br/>info@example.com</span>
+                                    <span>info@medha.com <br/>info@medha.com</span>
                                 </li>
                                 <li>
                                     <i class="fa fa-map-marker gradient"></i>
-                                    <span>Marmora Road Chi Minh City, Vietnam</span>
+                                    <span>CP 13/6 (Rama Nilayam), East Nada - Sree  Raghavapuram Sabhayogam Temple,Cheruthazham,Mandur (PO), Kannur (Dist), Kerala (State),670501 (Pin)</span>
                                 </li>
                             </ul>
                         </div>
