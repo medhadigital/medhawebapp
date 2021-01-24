@@ -30,7 +30,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">John Doe</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Manoj</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Emily Smith</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Narayanan</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -56,7 +56,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Blake Run</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Prasad</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Jenna Smith</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Drishya</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">John Kenny</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Sreekumar</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Silvia Perry</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Vivek</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Sakura Chen</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Hari</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@
                             </div>
                             <div class="dlab-content">
                                 <div class="clearfix">
-                                    <h3 class="dlab-name"><a href="javascript:void(0);">Neo Jackson</a></h3>
+                                    <h3 class="dlab-name"><a href="javascript:void(0);">Dhanya Sreenath</a></h3>
                                     <span class="dlab-position">Senior Designer</span>
                                 </div>
                             </div>
