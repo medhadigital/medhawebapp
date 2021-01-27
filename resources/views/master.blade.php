@@ -118,11 +118,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Our links</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">Home</a></li>
-                                <li><a href="javascript:void(0);">About Us</a></li>
-                                <li><a href="javascript:void(0);">Services</a></li>
-                                <li><a href="javascript:void(0);">Team</a></li>
-                                <li><a href="javascript:void(0);">Blog</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About Us</a></li>
+                                <li><a href="/services">Services</a></li>
+                                <li><a href="/aboutteam">Team</a></li>
+                                <li><a href="/blog">Blog</a></li>
                             </ul>
                         </div>
                     </div>
