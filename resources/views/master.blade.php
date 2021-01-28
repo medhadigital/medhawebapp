@@ -12,7 +12,7 @@
     <title>Medha Digital</title>
 
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" type="image/png" href="images/favicon.png" >
 
     <!-- Stylesheet -->
     <link href="vendor/bootstrap-select/bootstrap-select.min.css" rel="stylesheet">
