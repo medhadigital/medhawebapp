@@ -32,11 +32,11 @@
                     
                      <div class="col-lg-4">
                         <div class="section-head style-3 mb-4 text-center">
-                            <h4 class="title m-t10">We Are Many</h4>
+                            <h3 class="dlab-name style">We Are Many</h3>
                             <div class="dlab-separator style-2 bg-primary"></div>
                             <p>We are Designers, Developers, Architects, Testers... and you name it.</p>
                             <img text-align="middle" src="images/about/nextyou.png" width="140" height="110" alt="">
-                            <h4 class="title m-t10">Next, It May Be You!</h4>   
+                            <h3 class="dlab-name style">Next, It May Be You!</h3>   
                             <div class="dlab-separator style-2 bg-primary"></div>  
                             <p>Write us about you.</p>                  
                         </div>
