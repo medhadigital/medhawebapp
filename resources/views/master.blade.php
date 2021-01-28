@@ -130,11 +130,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Our Services</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">Strategy & Research</a></li>
-                                <li><a href="javascript:void(0);">Web Development</a></li>
-                                <li><a href="javascript:void(0);">Web Solution</a></li>
-                                <li><a href="javascript:void(0);">Digital Marketing</a></li>
-                                <li><a href="javascript:void(0);">App Design </a></li>
+                                <li><a href="/">Strategy & Research</a></li>
+                                <li><a href="/">Web Development</a></li>
+                                <li><a href="/">Web Solution</a></li>
+                                <li><a href="/">Digital Marketing</a></li>
+                                <li><a href="/">App Design </a></li>
                             </ul>
                         </div>
                     </div>
@@ -142,11 +142,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Other links</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">FAQ</a></li>
-                                <li><a href="javascript:void(0);">Portfolio</a></li>
-                                <li><a href="javascript:void(0);">Privacy Policy</a></li>
-                                <li><a href="javascript:void(0);">Terms & Conditions</a></li>
-                                <li><a href="javascript:void(0);">Support </a></li>
+                                <li><a href="/">FAQ</a></li>
+                                <li><a href="/">Portfolio</a></li>
+                                <li><a href="/">Privacy Policy</a></li>
+                                <li><a href="/">Terms & Conditions</a></li>
+                                <li><a href="/">Support </a></li>
                             </ul>
                         </div>
                     </div>
@@ -154,17 +154,24 @@
                         <div class="widget widget_getintuch">
                             <h5 class="footer-title">Contact Us</h5>
                             <ul>
-                                <li>
+                               <!--  <li>
                                     <i class="fa fa-phone gradient"></i>
-                                    <span>+91 9744353637<br/>+91 987-654-3210</span>
-                                </li>
+                                   <span>+91 9744353637<br/>+91 987-654-3210</span>
+                                </li> -->
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <span>info@medha.com <br/>info@medha.com</span>
+                                    <span> medhadigitalsolutions
+                                    @gmail.com</span>
                                 </li>
+                               
                                 <li>
                                     <i class="fa fa-map-marker gradient"></i>
-                                    <span>CP 13/6 (Rama Nilayam), East Nada - Sree  Raghavapuram Sabhayogam Temple,Cheruthazham,Mandur (PO), Kannur (Dist), Kerala (State),670501 (Pin)</span>
+                                    <span>Rama Nilayam
+East Nada, Sree Raghavapuram Sabhayogam Temple,
+Cheruthazham, 
+Kannur Dist, 
+Kerala, India 
+670501 Pin.</span>
                                 </li>
                             </ul>
                         </div>
