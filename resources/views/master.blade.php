@@ -104,7 +104,7 @@
                             <div class="footer-logo">
                                 <a href="index.html"><img src="images/logo-white.png" alt=""/></a>
                             </div>
-                            <p>Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.</p>
+                            <p>As an organisation committed towards empowering our society, at Medha Digital, our experts are always working to provide next generation  solutions to your business problems. We work side by side to bring your business dreams to life !</p>
                             <div class="dlab-social-icon">
                                 <ul>
                                     <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
