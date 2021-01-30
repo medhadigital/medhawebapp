@@ -104,7 +104,7 @@
                             <div class="footer-logo">
                                 <a href="index.html"><img src="images/logo-white.png" alt=""/></a>
                             </div>
-                            <p>Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.</p>
+                            <p>As an organisation committed towards empowering our society, at Medha Digital, our experts are always working to provide next generation  solutions to your business problems. We work side by side to bring your business dreams to life !</p>
                             <div class="dlab-social-icon">
                                 <ul>
                                     <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
@@ -118,11 +118,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Our links</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">Home</a></li>
-                                <li><a href="javascript:void(0);">About Us</a></li>
-                                <li><a href="javascript:void(0);">Services</a></li>
-                                <li><a href="javascript:void(0);">Team</a></li>
-                                <li><a href="javascript:void(0);">Blog</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About Us</a></li>
+                                <li><a href="/services">Services</a></li>
+                                <li><a href="/aboutteam">Team</a></li>
+                                <li><a href="/blog">Blog</a></li>
                             </ul>
                         </div>
                     </div>
@@ -130,11 +130,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Our Services</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">Strategy & Research</a></li>
-                                <li><a href="javascript:void(0);">Web Development</a></li>
-                                <li><a href="javascript:void(0);">Web Solution</a></li>
-                                <li><a href="javascript:void(0);">Digital Marketing</a></li>
-                                <li><a href="javascript:void(0);">App Design </a></li>
+                                <li><a href="/">Strategy & Research</a></li>
+                                <li><a href="/">Web Development</a></li>
+                                <li><a href="/">Web Solution</a></li>
+                                <li><a href="/">Digital Marketing</a></li>
+                                <li><a href="/">App Design </a></li>
                             </ul>
                         </div>
                     </div>
@@ -142,11 +142,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Other links</h5>
                             <ul>
-                                <li><a href="javascript:void(0);">FAQ</a></li>
-                                <li><a href="javascript:void(0);">Portfolio</a></li>
-                                <li><a href="javascript:void(0);">Privacy Policy</a></li>
-                                <li><a href="javascript:void(0);">Terms & Conditions</a></li>
-                                <li><a href="javascript:void(0);">Support </a></li>
+                                <li><a href="/">FAQ</a></li>
+                                <li><a href="/">Portfolio</a></li>
+                                <li><a href="/">Privacy Policy</a></li>
+                                <li><a href="/">Terms & Conditions</a></li>
+                                <li><a href="/">Support </a></li>
                             </ul>
                         </div>
                     </div>
@@ -154,17 +154,18 @@
                         <div class="widget widget_getintuch">
                             <h5 class="footer-title">Contact Us</h5>
                             <ul>
-                                <li>
+                               <!--  <li>
                                     <i class="fa fa-phone gradient"></i>
-                                    <span>+91 123-456-7890<br/>+91 987-654-3210</span>
-                                </li>
+                                   <span>+91 9744353637<br/>+91 987-654-3210</span>
+                                </li> -->
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <span>info@example.com <br/>info@example.com</span>
+                                    <a href="mailto:medhadigitalsolutions@gmail.com" target="_blank" class="text-white">medhadigitalsolutions@gmail.com</a>
                                 </li>
+                               
                                 <li>
                                     <i class="fa fa-map-marker gradient"></i>
-                                    <span>Marmora Road Chi Minh City, Vietnam</span>
+                                    <span>Rama Nilayam, East Nada Sree Raghavapuram Temple, Cheruthazham, Kannur Dist, Kerala, India. Pin: 670501</span>
                                 </li>
                             </ul>
                         </div>
