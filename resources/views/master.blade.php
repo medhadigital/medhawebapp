@@ -165,12 +165,7 @@
                                
                                 <li>
                                     <i class="fa fa-map-marker gradient"></i>
-                                    <span>Rama Nilayam
-East Nada, Sree Raghavapuram Sabhayogam Temple,
-Cheruthazham, 
-Kannur Dist, 
-Kerala, India 
-670501 Pin.</span>
+                                    <span>Rama Nilayam, East Nada Sree Raghavapuram Temple, Cheruthazham, Kannur Dist, Kerala, India. Pin: 670501</span>
                                 </li>
                             </ul>
                         </div>
