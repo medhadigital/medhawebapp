@@ -15399,7 +15399,8 @@ footer {
   footer strong {
     color: #fff; }
   footer .footer-logo {
-    margin-bottom: 25px; }
+    margin-bottom: 25px;
+    width: 150px; }
     footer .footer-logo img {
       max-width: 100%; }
   footer .widget-logo ul {
