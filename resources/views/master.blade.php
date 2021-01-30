@@ -12,7 +12,7 @@
     <title>Medha Digital</title>
 
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" type="image/png" href="images/favicon.png" >
 
     <!-- Stylesheet -->
     <link href="vendor/bootstrap-select/bootstrap-select.min.css" rel="stylesheet">
@@ -37,7 +37,7 @@
                 <div class="container clearfix">
                     <!-- Website Logo -->
                     <div class="logo-header">
-                        <a href="/"><img class="logo-3" src="images/logo-white.png" alt=""></a>
+                        <a href="/"><img class="logo-3" src="images/medha_white.png" alt=""></a>
                     </div>
                     <!-- Nav Toggle Button -->
                     <button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
                         <div class="logo-header">
-                            <a href="/"><img src="images/logo-3.png" alt=""></a>
+                            <a href="/"><img src="images/medha.png" alt=""></a>
                         </div>
                         <ul class="nav navbar-nav navbar">
                             <li><a href="/">Home</a></li>
@@ -102,7 +102,7 @@
                     <div class="col-xl-3 col-lg-12 col-md-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div class="widget widget_about">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="images/logo-white.png" alt=""/></a>
+                                <a href="index.html"><img src="images/medha_white.png" alt=""/></a>
                             </div>
                             <p>As an organisation committed towards empowering our society, at Medha Digital, our experts are always working to provide next generation  solutions to your business problems. We work side by side to bring your business dreams to life !</p>
                             <div class="dlab-social-icon">
