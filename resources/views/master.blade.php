@@ -160,8 +160,7 @@
                                 </li> -->
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <span> medhadigitalsolutions
-                                    @gmail.com</span>
+                                    <a href="mailto:medhadigitalsolutions@gmail.com" target="_blank" class="text-white">medhadigitalsolutions@gmail.com</a>
                                 </li>
                                
                                 <li>
