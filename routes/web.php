@@ -35,6 +35,6 @@ Route::get('/aboutteam', function () {
     return view('aboutteam');
 });
 
-Route::get('/blog', function () {
-    return view('blog');
-});
+// Route::get('/blog', function () {
+//     return view('blog');
+// });
