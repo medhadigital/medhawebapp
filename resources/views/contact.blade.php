@@ -29,80 +29,91 @@
                         </div>
                     </div>
                     <div class="col-xl-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
-                        <form class="dlab-form">
+                        @if ($errors->any())
+                            <div class="alert alert-danger">
+                                <ul>
+                                    @foreach ($errors->all() as $error)
+                                        <li>{{ $error }}</li>
+                                    @endforeach
+                                </ul>
+                            </div>
+                        @endif
+                        <form class="dlab-form " name="contact-form" method="post">
+                            @csrf
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="First Name">
+                                        <input type="text" class="form-control" placeholder="First Name" name="fname" value="{{ old('fname') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Last Name">
+                                        <input type="text" class="form-control" placeholder="Last Name" name="lname" value="{{ old('lname') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Email Address">
+                                        <input type="text" class="form-control" placeholder="Email Address" name="email" value="{{ old('email') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Phone No.">
+                                        <input type="text" class="form-control" placeholder="Phone No." name="phone" value="{{ old('phone') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Project Title">
+                                        <input type="text" class="form-control" placeholder="Project Title" name="project" value="{{ old('project') }}">
                                     </div>
                                 </div>
+                                
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <select class="form-control">
+                                        <select class="form-control" name="service">
                                             <option selected>Choose Service</option>
-                                            <option value="1">Web Development</option>
-                                            <option value="2">Web Design</option>
-                                            <option value="3">Strategy & Research</option>
+                                            <option value="Web Development" {{old('service') == 'Web Development' ? 'selected' : '' }}  >Web Development</option>
+                                            <option value="Web Design" {{old('service') == 'Web Design' ? 'selected' : '' }}>Web Design</option>
+                                            <option value="Strategy & Research" {{old('service') == 'Strategy & Research' ? 'selected' : '' }}>Strategy & Research</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="input-group">
-                                        <textarea class="form-control">Message</textarea>
+                                        <textarea name="message"  class="form-control" placeholder="Your Message...">{{ old('message') }}</textarea>
                                     </div>
                                 </div>
-                                <div class="col-sm-12">
+                                <!-- <div class="col-sm-12">
                                     <div class="input-group custom-file">
                                         <input type="file" class="form-control custom-file-input">
                                         <label class="custom-file-label">Choose file</label>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Estimated Buget">
+                                        <input type="text" class="form-control" placeholder="Estimated Buget" name="estimate" value="{{ old('estimate') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <select class="form-control">
+                                        <select class="form-control" name="priority">
                                             <option selected>Priority</option>
-                                            <option value="1">One</option>
-                                            <option value="2">Two</option>
-                                            <option value="3">Three</option>
+                                            <option value="1" {{old('priority') == '1' ? 'selected' : '' }} >One</option>
+                                            <option value="2" {{old('priority') == '2' ? 'selected' : '' }} >Two</option>
+                                            <option value="3" {{old('priority') == '3' ? 'selected' : '' }} >Three</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Country">
+                                        <input type="text" class="form-control" placeholder="Country" name="country" value="{{ old('country') }}">
                                     </div>
                                 </div>
-                                <div class="col-sm-12">
+                                <!-- <div class="col-sm-12">
                                     <div class="input-group">
                                         <div class="g-recaptcha" data-sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
                                         <input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-sm-12">
                                     <button type="submit" class="btn btn-corner gradient btn-primary">Submit Now</button>
                                 </div>
