@@ -21,10 +21,9 @@ Route::get('/about', function () {
 });
 
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/contact','ContactController@contact');
 
+Route::post('/contact','ContactController@processData');
 
 Route::get('/services', function () {
     return view('services');
