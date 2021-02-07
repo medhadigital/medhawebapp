@@ -38,6 +38,11 @@
                                 </ul>
                             </div>
                         @endif
+                        @if(session()->has('success'))
+                            <div class="alert alert-success">
+                                {{ session()->get('success') }}
+                            </div>
+                        @endif
                         <form class="dlab-form " name="contact-form" method="post">
                             @csrf
                             <div class="row">
