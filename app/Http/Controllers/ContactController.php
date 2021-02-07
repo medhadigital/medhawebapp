@@ -37,7 +37,7 @@ class ContactController extends Controller
                     ->subject('New Contact Request - Medha Digital');
         });
 
-        return back()->with('success', 'Thanks for contacting me, I will get back to you soon!');
+        return back()->with('success', 'Thanks for contacting us, We will get back to you soon!');
     }
 
     
