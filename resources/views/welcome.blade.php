@@ -230,7 +230,7 @@
                         <li class="card-container col-lg-6 web_design">
                             <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                 <div class="dlab-media dlab-img-overlay1">
-                                    <img src="images/projects/project-1/pic1.jpg" alt="">
+                                    <img src="images/projects/project-1/pic1.png" alt="">
                                 </div>
                                 <div class="dlab-info">
                                     <h5 class="title"><a href="javascript:void(0);">Software Landing Page Design</a></h5>
@@ -243,7 +243,7 @@
                                 <div class="col-sm-6">
                                     <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                         <div class="dlab-media dlab-img-overlay1">
-                                            <img src="images/projects/project-1/pic2.jpg" alt="">
+                                            <img src="images/projects/project-1/pic2.jpeg" alt="">
                                         </div>
                                         <div class="dlab-info">
                                             <h5 class="title"><a href="javascript:void(0);">Software </a></h5>
@@ -267,7 +267,7 @@
                         <li class="card-container col-lg-6 web_development web_design">
                             <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                 <div class="dlab-media dlab-img-overlay1">
-                                    <img src="images/projects/project-1/pic6.jpg" alt="">
+                                    <img src="images/projects/project-1/pic6.jpeg" alt="">
                                 </div>
                                 <div class="dlab-info">
                                     <h5 class="title"><a href="javascript:void(0);">Software Landing Page Design</a></h5>
@@ -280,7 +280,7 @@
                                 <div class="col-sm-6">
                                     <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                         <div class="dlab-media dlab-img-overlay1">
-                                            <img src="images/projects/project-1/pic4.jpg" alt="">
+                                            <img src="images/projects/project-1/pic4.jpeg" alt="">
                                         </div>
                                         <div class="dlab-info">
                                             <h5 class="title"><a href="javascript:void(0);">Software </a></h5>
@@ -307,30 +307,7 @@
         </section>
 
         <!-- Newsletter -->
-        <section class="content-inner-3 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s" style="background-image: url(images/background/bg12.png), var(--gradient-sec); background-size: cover, 200%; background-repeat: no-repeat;">
-            <div class="container">
-                <div class="row align-items-center subscribe-wraper-1">
-                    <div class="col-lg-7 col-md-6">
-                        <h2 class="text-white title m-b30">Subscribe To Our Newsletter For Latest Update Of New Products</h2>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <div class="dlab-subscribe style-3 max-w500">
-                            <form class="dzSubscribe" action="https://samar.dexignzone.com/xhtml/script/mailchamp.php" method="post">
-                                <div class="dzSubscribeMsg"></div>
-                                <div class="form-group m-b30">
-                                    <div class="input-group mb-0">
-                                        <input name="dzEmail" required="required" type="email" class="form-control" placeholder="Email Address">
-                                        <div class="input-group-addon">
-                                            <button name="submit" value="Submit" type="submit" class="btn btn-corner gradient shadow btn-primary">Subscribe Now</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       <!--ends newsletter-->
 
         <!-- Team -->
         <section class="content-inner-1 bg-gray">
@@ -349,7 +326,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">John Doe</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Dhanya Sreenath</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -362,7 +339,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Emily Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Prasad Kavil Madamana</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -375,7 +352,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Blake Run</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Dhanya T C</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -388,7 +365,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Jenna Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Narayanan Perumba</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -414,7 +391,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Emily Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Sarath</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -427,7 +404,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Blake Run</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Maya</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -440,7 +417,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Jenna Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Vivek kalakkadu</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -453,7 +430,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">John Doe</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Drishya</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -466,7 +443,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Emily Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Sreekumar</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -492,7 +469,7 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Jenna Smith</a></h3>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Manoj</a></h3>
                                             <span class="dlab-position">Senior Designer</span>
                                         </div>
                                     </div>
@@ -505,102 +482,7 @@
         </section>
 
         <!-- Pricing Table -->
-        <section class="content-inner">
-            <div class="container">
-                <div class="section-head style-3 text-center">
-                    <h2 class="title m-t10">Our Pricing</h2>
-                    <div class="dlab-separator style-2 bg-primary"></div>
-                </div>
-                <div class="pricingtable-row">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                            <div class="pricingtable-wrapper style-3 m-b30">
-                                <div class="pricingtable-inner">
-                                    <div class="pricingtable-head">
-                                        <div class="pricingtable-title">
-                                            <h3>Basic Plan</h3>
-                                        </div>
-                                        <div class="icon-cell">
-                                            <img src="images/pricingtable/icon1.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="pricingtable-price">
-                                        <h2 class="pricingtable-bx">$49<small class="pricingtable-type">/Month</small></h2>
-                                    </div>
-                                    <ul class="pricingtable-features">
-                                        <li>Graphic Design </li>
-                                        <li>Web Design</li>
-                                        <li>UI/UX</li>
-                                        <li>HTML/CSS</li>
-                                        <li>SEO Marketing</li>
-                                        <li>Business Analysis</li>
-                                    </ul>
-                                    <div class="pricingtable-footer">
-                                        <a href="pricing-table-3.html" class="btn btn-corner btn-outline-primary">Start Now</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                            <div class="pricingtable-wrapper style-3 active m-b30">
-                                <div class="pricingtable-inner">
-                                    <div class="pricingtable-head">
-                                        <div class="pricingtable-title">
-                                            <h3>Standart Plan</h3>
-                                        </div>
-                                        <div class="icon-cell">
-                                            <img src="images/pricingtable/icon2.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="pricingtable-price">
-                                        <h2 class="pricingtable-bx">$99<small class="pricingtable-type">/Month</small></h2>
-                                    </div>
-                                    <ul class="pricingtable-features">
-                                        <li>Graphic Design </li>
-                                        <li>Web Design</li>
-                                        <li>UI/UX</li>
-                                        <li>HTML/CSS</li>
-                                        <li>SEO Marketing</li>
-                                        <li>Business Analysis</li>
-                                    </ul>
-                                    <div class="pricingtable-footer">
-                                        <a href="pricing-table-3.html" class="btn btn-corner gradient btn-outline-primary">Start Now</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-                            <div class="pricingtable-wrapper style-3 m-b30">
-                                <div class="pricingtable-inner">
-                                    <div class="pricingtable-head">
-                                        <div class="pricingtable-title">
-                                            <h3>Premium Plan</h3>
-                                        </div>
-                                        <div class="icon-cell">
-                                            <img src="images/pricingtable/icon3.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="pricingtable-price">
-                                        <h2 class="pricingtable-bx">$149<small class="pricingtable-type">/Month</small></h2>
-                                    </div>
-                                    <ul class="pricingtable-features">
-                                        <li>Graphic Design </li>
-                                        <li>Web Design</li>
-                                        <li>UI/UX</li>
-                                        <li>HTML/CSS</li>
-                                        <li>SEO Marketing</li>
-                                        <li>Business Analysis</li>
-                                    </ul>
-                                    <div class="pricingtable-footer">
-                                        <a href="pricing-table-3.html" class="btn btn-corner btn-outline-primary">Start Now</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+      <!--end Pricing table>
 
         <!-- Testimonials -->
         <section class="content-inner-1 bg-gray" style="background-image: url(images/background/bg3.png);">
@@ -648,120 +530,7 @@
         </section>
 
         <!-- Blog -->
-        <section class="content-inner">
-            <div class="container">
-                <div class="section-head style-3 text-center">
-                    <h2 class="title m-t10">Our Blog & News</h2>
-                    <div class="dlab-separator style-2 bg-primary"></div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                        <div class="dlab-blog blog-half m-b30">
-                            <div class="dlab-media">
-                                <a href="blog-details-3.html"><img src="images/blog/default/thum1.jpg" alt=""></a>
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="dlab-title">
-                                    <a href="blog-details-3.html">Vestibulum massa arcu, consectetu  pellentesque scelerisque.</a>
-                                </h5>
-                                <p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
-                                <div class="dlab-meta">
-                                    <ul>
-                                        <li class="post-date"><i class="flaticon-clock m-r10"></i>7 March, 2020</li>
-                                        <li class="post-comment"><a href="javascript:void(0);"><i class="flaticon-speech-bubble"></i></a></li>
-                                        <li class="post-share"><i class="flaticon-share"></i>
-                                            <ul>
-                                                <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                        <div class="dlab-blog blog-half m-b30">
-                            <div class="dlab-media">
-                                <a href="blog-details-3.html"><img src="images/blog/default/thum2.jpg" alt=""></a>
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="dlab-title">
-                                    <a href="blog-details-3.html">Quisque egestas iaculis felis eget placerat ut pulvinar mi.</a>
-                                </h5>
-                                <p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
-                                <div class="dlab-meta">
-                                    <ul>
-                                        <li class="post-date"><i class="flaticon-clock m-r10"></i>7 March, 2020</li>
-                                        <li class="post-comment"><a href="javascript:void(0);"><i class="flaticon-speech-bubble"></i></a></li>
-                                        <li class="post-share"><i class="flaticon-share"></i>
-                                            <ul>
-                                                <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-                        <div class="dlab-blog blog-half m-b30">
-                            <div class="dlab-media">
-                                <a href="blog-details-3.html"><img src="images/blog/default/thum3.jpg" alt=""></a>
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="dlab-title">
-                                    <a href="blog-details-3.html">Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.</a>
-                                </h5>
-                                <p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
-                                <div class="dlab-meta">
-                                    <ul>
-                                        <li class="post-date"><i class="flaticon-clock m-r10"></i>7 March, 2020</li>
-                                        <li class="post-comment"><a href="javascript:void(0);"><i class="flaticon-speech-bubble"></i></a></li>
-                                        <li class="post-share"><i class="flaticon-share"></i>
-                                            <ul>
-                                                <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.8s">
-                        <div class="dlab-blog blog-half m-b30">
-                            <div class="dlab-media">
-                                <a href="blog-details-3.html"><img src="images/blog/default/thum4.jpg" alt=""></a>
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="dlab-title">
-                                    <a href="blog-details-3.html">Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.</a>
-                                </h5>
-                                <p>Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.</p>
-                                <div class="dlab-meta">
-                                    <ul>
-                                        <li class="post-date"><i class="flaticon-clock m-r10"></i>7 March, 2020</li>
-                                        <li class="post-comment"><a href="javascript:void(0);"><i class="flaticon-speech-bubble"></i></a></li>
-                                        <li class="post-share"><i class="flaticon-share"></i>
-                                            <ul>
-                                                <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
-                                                <li><a class="fa fa-linkedin" href="javascript:void(0);"></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+      <!--blog ends -->
 
         <!-- Clients Logo -->
         <div class="p-tb50 bg-gray wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -802,7 +571,7 @@
         </div>
 
         <!-- Contact Form -->
-        <section class="content-inner">
+        <section class="content-inner"id="gettouch">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
