@@ -48,7 +48,7 @@
                     <!-- Extra Nav -->
                     <div class="extra-nav">
                         <div class="extra-cell">
-                            <a href="contact-us-3.html" class="btn btn-corner gradient btn-primary"><i class="fa fa-angle-right m-r10"></i>Get A Quote</a>
+                            <a href="#gettouch" class="btn btn-corner gradient btn-primary"><i class="fa fa-angle-right m-r10"></i>Get A Quote</a>
                         </div>
                     </div>
                     <div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
