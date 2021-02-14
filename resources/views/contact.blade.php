@@ -20,7 +20,7 @@
         <!-- Banner End -->
 
         <!-- Get A Quote -->
-        <div class="content-inner">
+        <div class="content-inner" id="messages" >
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -43,27 +43,31 @@
                                 {{ session()->get('success') }}
                             </div>
                         @endif
-                        <form class="dlab-form " name="contact-form" method="post">
+                        <form class="dlab-form style-1" name="contact-form" method="post">
                             @csrf
+                            <div class="section-head style-3">
+                                <h2 class="title m-t10">Contact Us</h2>
+                                <div class="dlab-separator style-2 bg-primary"></div>
+                            </div>
                             <div class="row">
-                                <div class="col-sm-6">
+                                <div class="col-sm-12">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="First Name" name="fname" value="{{ old('fname') }}">
+                                        <input type="text" class="form-control" placeholder="Full Name*" name="name" value="{{ old('name') }}">
                                     </div>
                                 </div>
-                                <div class="col-sm-6">
+                                <!-- <div class="col-sm-6">
                                     <div class="input-group">
                                         <input type="text" class="form-control" placeholder="Last Name" name="lname" value="{{ old('lname') }}">
                                     </div>
-                                </div>
-                                <div class="col-sm-6">
+                                </div> -->
+                                <div class="col-sm-12">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Email Address" name="email" value="{{ old('email') }}">
+                                        <input type="text" class="form-control" placeholder="Email Address*" name="email" value="{{ old('email') }}">
                                     </div>
                                 </div>
-                                <div class="col-sm-6">
+                                <div class="col-sm-12">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Phone No." name="phone" value="{{ old('phone') }}">
+                                        <input type="text" class="form-control" placeholder="Phone Number*" name="phone" value="{{ old('phone') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
@@ -84,7 +88,7 @@
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="input-group">
-                                        <textarea name="message"  class="form-control" placeholder="Your Message...">{{ old('message') }}</textarea>
+                                        <textarea name="message"  class="form-control" placeholder="Your Message...*">{{ old('message') }}</textarea>
                                     </div>
                                 </div>
                                 <!-- <div class="col-sm-12">
@@ -93,7 +97,7 @@
                                         <label class="custom-file-label">Choose file</label>
                                     </div>
                                 </div> -->
-                                <div class="col-sm-6">
+                                <!-- <div class="col-sm-6">
                                     <div class="input-group">
                                         <input type="text" class="form-control" placeholder="Estimated Buget" name="estimate" value="{{ old('estimate') }}">
                                     </div>
@@ -112,7 +116,7 @@
                                     <div class="input-group">
                                         <input type="text" class="form-control" placeholder="Country" name="country" value="{{ old('country') }}">
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- <div class="col-sm-12">
                                     <div class="input-group">
                                         <div class="g-recaptcha" data-sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>

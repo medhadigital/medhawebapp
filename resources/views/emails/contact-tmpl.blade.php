@@ -6,8 +6,8 @@ Contact Us Request <br>
 <p> Project Title: {{ $project }} </p>
 <p> Service: {{ $service }} </p>
 <p> Message: {{ $comment }} </p>
-<br>
-<p> Estimated Budget: {{ $estimate }} </p>
-<p> Priority: {{ $priority }} </p>
-<p> Country: {{ $country }} </p>
+<!-- <br>
+<p> Estimated Budget: </p>
+<p> Priority:  </p>
+<p> Country:  </p> -->
 
