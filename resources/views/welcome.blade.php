@@ -41,7 +41,7 @@
                             </div>
                             <div class="icon-content">
                                 <h4 class="dlab-title m-b15">Strategy & Research</h4>
-                                <p class="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+                                <p class="m-b20">The right strategy and planning for any bussiness is essential.Strategy is the formula by which the major marketing variables are integrated,energized,and optimized.Through number of and analyses our experts build optimal strategies that fit for your needs.</p>
                                 <a href="services-3.html" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -53,7 +53,8 @@
                             </div>
                             <div class="icon-content">
                                 <h4 class="dlab-title m-b15">Web Development</h4>
-                                <p class="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+                                <p class="m-b20">Web development is an art, we understand the new era of the internet, importance of user experience and early bird catches the worm. Our experts are faster than you think, they carve high quality, fast loading and well performing websites with a seamless user experience.
+</p>
                                 <a href="services-3.html" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -65,7 +66,7 @@
                             </div>
                             <div class="icon-content">
                                 <h4 class="dlab-title m-b15">Web Solution</h4>
-                                <p class="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+                                <p class="m-b20">Looking for a centralised solution for your business? Web and mobile friendly applications for agriculture, farming, retail, finance, medical, etc. We have a wide variety of domain skills that you are looking for</p>
                                 <a href="services-3.html" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -85,12 +86,12 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="section-head style-3 mb-4">
-                            <h2 class="title m-t10">Why Our Agency</h2>
+                            <h2 class="title m-t10">Why Medha</h2>
                             <div class="dlab-separator style-2 bg-primary"></div>
                         </div>
-                        <p>In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.</p>
-                        <p class="m-b30">Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.</p>
-                        <div class="row">
+                        <p>Do you want to be part of community development? Like to support social reforming and appreciate the local talents. On top of everything, are you looking for a high performing world class solution with round the clock support??? It's your chance… to... Conceive, Compete, Collaborate & Contribute</p>
+                       <!-- <p class="m-b30">Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.</p>-->
+                       <!-- <div class="row">
                             <div class="col-sm-4 m-b30 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                                 <div class="dlab-content-bx style-2 text-center">
                                     <div class="icon-content">
@@ -115,7 +116,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
@@ -485,91 +486,14 @@
       <!--end Pricing table>
 
         <!-- Testimonials -->
-        <section class="content-inner-1 bg-gray" style="background-image: url(images/background/bg3.png);">
-            <div class="container">
-                <div class="section-head style-3 text-center">
-                    <h2 class="title m-t10">What Our Clients Say’s</h2>
-                    <div class="dlab-separator style-2 bg-primary"></div>
-                </div>
-                <div class="testimonials-carousel2 owl-carousel owl-theme owl-none owl-theme owl-dots-primary-full wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-                    <div class="item">
-                        <div class="testimonial-2">
-                            <div class="testimonial-pic quote-right">
-                                <img src="images/testimonials/pic1.jpg" alt="">
-                            </div>
-                            <div class="testimonial-text">
-                                <p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-                                <strong class="testimonial-name">Cak Dikin</strong>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial-2">
-                            <div class="testimonial-pic quote-right">
-                                <img src="images/testimonials/pic3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-text">
-                                <p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-                                <strong class="testimonial-name">Cak Dikin</strong>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial-2">
-                            <div class="testimonial-pic quote-right">
-                                <img src="images/testimonials/pic3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-text">
-                                <p>Nullam et velit mollis, dictum eros a, vehicula turpis. Aenean feugiat congue faucibus. Nullam dapibus ex ex, vulputate gravida nisi mattis in. Duis maximus odio sed turpis vehicula auctor sit amet ut urna. Nam non libero ut ex fermentum consectetur et in dolor. Morbi tempor gravida diam nec lacinia. Suspendisse vehicula ultricies arcu.</p>
-                                <strong class="testimonial-name">Cak Dikin</strong>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!-- testimonials end-->>
 
         <!-- Blog -->
       <!--blog ends -->
 
         <!-- Clients Logo -->
-        <div class="p-tb50 bg-gray wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-            <div class="container">
-                <div class="clients-carousel owl-none owl-carousel">
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo1.png" alt="">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo2.png" alt="">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo3.png" alt="">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo4.png" alt="">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo5.png" alt="">
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="clients-logo">
-                            <img src="images/logo/logo6.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+  
+<!-- clients log ends>
         <!-- Contact Form -->
         <section class="content-inner"id="gettouch">
             <div class="container">
