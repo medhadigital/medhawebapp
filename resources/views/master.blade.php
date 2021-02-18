@@ -105,13 +105,13 @@
                                 <a href="index.html"><img src="images/medha_white.png" alt=""/></a>
                             </div>
                             <p>As an organisation committed towards empowering our society, at Medha Digital, our experts are always working to provide next generation  solutions to your business problems. We work side by side to bring your business dreams to life !</p>
-                            <div class="dlab-social-icon">
+                           <!-- <div class="dlab-social-icon">
                                 <ul>
                                     <li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
                                     <li><a class="fa fa-instagram" href="javascript:void(0);"></a></li>
                                     <li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
                                 </ul>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4  col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
