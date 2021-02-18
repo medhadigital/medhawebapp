@@ -13,7 +13,7 @@
                             <h6 data-wow-delay="0.5s" data-wow-duration="3s" class="wow fadeInUp sub-title text-primary">Welcome to </h6>
                             <h1 data-wow-delay="1s" data-wow-duration="3s" class="wow fadeInUp m-b20">Medha Digital</h1>
                             <p  data-wow-delay="1.5s" data-wow-duration="3s" class="wow fadeInUp m-b30">The First Distributed Team of Developers for your projects.</p>
-                            <a  data-wow-delay="2s" data-wow-duration="3s" href="about-us-3.html" class="wow fadeInUp  btn btn-corner gradient btn-primary">Learn More</a>
+                            <a  data-wow-delay="2s" data-wow-duration="3s" href="/about" class="wow fadeInUp  btn btn-corner gradient btn-primary">Learn More</a>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -42,7 +42,7 @@
                         <div class="icon-content">
                             <h4 class="dlab-title m-b15">Strategy & Research</h4>
                             <p class="m-b20">The right strategy and planning for any bussiness is essential. Strategy is the formula by which the major marketing variables are integrated, energized and optimized. Through number of research and analyses, our experts build optimal strategies that fit for your needs.</p>
-                            <a href="services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
+                            <a href="/services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         <div class="icon-content">
                             <h4 class="dlab-title m-b15">Web Development</h4>
                             <p class="m-b20">Web development is an art, we understand the new era of the internet, importance of user experience & <q><strong>early bird catches the worm</strong></q>. Our experts are faster than you think, they carve high quality, fast loading and well performing websites with a seamless user experience.</p>
-                            <a href="services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
+                            <a href="/services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                         <div class="icon-content">
                             <h4 class="dlab-title m-b15">Web Solution</h4>
                             <p class="m-b20">Looking for a centralised solution for your business?. Web and mobile friendly applications for agriculture, farming, retail, finance, medical, etc?. We have a wide variety of domain skills that you are looking for</p>
-                            <a href="services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
+                            <a href="/services" class="btn btn-outline-primary"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
