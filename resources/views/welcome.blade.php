@@ -327,8 +327,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Dhanya Sreenath</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Domain experts</a></h3>
+                                       <!--     <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -340,8 +340,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Prasad Kavil Madamana</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Analysts</a></h3>
+                                     <!--       <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -353,8 +353,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Dhanya T C</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Solution engineers</a></h3>
+                                         <!--   <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -366,8 +366,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Narayanan Perumba</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Designers</a></h3>
+                                       <!--     <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -379,8 +379,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">John Doe</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Domain experts</a></h3>
+                                       <!--     <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -392,8 +392,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Sarath</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Analysts</a></h3>
+                                          <!--  <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -405,8 +405,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Maya</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Solution engineers</a></h3>
+                                        <!--    <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -418,8 +418,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Vivek kalakkadu</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Designers</a></h3>
+                                      <!--      <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -431,8 +431,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Drishya</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Domain experts</a></h3>
+                                          <!--  <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -444,8 +444,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Sreekumar</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Analysts</a></h3>
+                                      <!--      <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -457,8 +457,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Blake Run</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Solution engineers</a></h3>
+                                      <!--      <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
@@ -470,8 +470,8 @@
                                     </div>
                                     <div class="dlab-content">
                                         <div class="clearfix">
-                                            <h3 class="dlab-name"><a href="javascript:void(0);">Manoj</a></h3>
-                                            <span class="dlab-position">Senior Designer</span>
+                                            <h3 class="dlab-name"><a href="javascript:void(0);">Designers</a></h3>
+                                    <!--        <span class="dlab-position">Senior Designer</span>-->
                                         </div>
                                     </div>
                                 </div>
