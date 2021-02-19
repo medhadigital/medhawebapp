@@ -13,7 +13,7 @@
                             <h6 data-wow-delay="0.5s" data-wow-duration="3s" class="wow fadeInUp sub-title text-primary">Welcome to </h6>
                             <h1 data-wow-delay="1s" data-wow-duration="3s" class="wow fadeInUp m-b20">Medha Digital</h1>
                             <p  data-wow-delay="1.5s" data-wow-duration="3s" class="wow fadeInUp m-b30">The First Distributed Team of Developers for your projects.</p>
-                            <a  data-wow-delay="2s" data-wow-duration="3s" href="/about" class="wow fadeInUp  btn btn-corner gradient btn-primary">Learn More</a>
+                            <a  data-wow-delay="2s" data-wow-duration="3s" href="/about" class="wow fadeInUp  btn btn-corner gradient btn-primary">Know More</a>
                         </div>
                     </div>
                     <div class="col-md-6">
