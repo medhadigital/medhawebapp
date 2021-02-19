@@ -32,8 +32,8 @@ class ContactController extends Controller
                 'comment' => $request->get('message')
             ],
             function ($message) {
-            $message->from('medhadigitalsolutions@gmail.com');
-            $message->to('sreekumar.medha@gmail.com', 'Sreekumar')
+            $message->from('contact-us@medha.digital');
+            $message->to('medhadigitalsolutions@gmail.com', 'Admin')
                     ->subject('New Contact Request - Medha Digital');
         });
 
