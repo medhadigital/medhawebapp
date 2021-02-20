@@ -13,23 +13,24 @@ class ContactController extends Controller
 
     public function sendMail(Request $request) {
         
-        // $this->validate($request, [
-        //     'name' => 'required',
-        //     'email' => ['required','email'],
-        //     'phone' => ['required','numeric','digits_between:9,12'],
-        //     'message' => 'required'
-        //     ]);
+        $this->validate($request, [
+            'name' => 'required',
+            'email' => ['required','email'],
+            'message' => 'required'
+            ]);
         
         $details = [
             'name' => $request->get('name'),
             'email' => $request->get('email'),
             'phone' => $request->get('phone'),
-            'project' => $request->get('project'),
+            'subject' => $request->get('subject'),
             'service' => $request->get('service'),
             'comment' => $request->get('message')
         ];
 
-        \Mail::to('medhadigitalsolutions@gmail.com')->send(new \App\Mail\Contact($details));
+        $to = config('app.admin_email');
+
+        \Mail::to($to)->send(new \App\Mail\Contact($details));
 
     return redirect('/contact#messages')->with('success', 'Thanks for contacting us, We will get back to you soon!');
     }

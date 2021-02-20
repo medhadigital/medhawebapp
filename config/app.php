@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Medha Digital'),
 
     /*
     |--------------------------------------------------------------------------
@@ -227,5 +227,7 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+
+    'admin_email' => env('ADMIN_EMAIL', 'medhadigitalsolutions@gmail.com'),
 
 ];

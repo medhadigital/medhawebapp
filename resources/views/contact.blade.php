@@ -52,27 +52,22 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Full Name*" name="name" value="{{ old('name') }}">
-                                    </div>
-                                </div>
-                                <!-- <div class="col-sm-6">
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Last Name" name="lname" value="{{ old('lname') }}">
-                                    </div>
-                                </div> -->
-                                <div class="col-sm-12">
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Email Address*" name="email" value="{{ old('email') }}">
+                                        <input type="text" class="form-control" placeholder="Full Name*" name="name" value="{{ old('name') }}" required>
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Phone Number*" name="phone" value="{{ old('phone') }}">
+                                        <input type="email" class="form-control" placeholder="Email Address*" name="email" value="{{ old('email') }}" required>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <div class="input-group">
+                                        <input type="tel" class="form-control" placeholder="Phone Number" name="phone" value="{{ old('phone') }}">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Project Title" name="project" value="{{ old('project') }}">
+                                        <input type="text" class="form-control" placeholder="Subject" name="subject" value="{{ old('subject') }}">
                                     </div>
                                 </div>
                                 
@@ -83,46 +78,15 @@
                                             <option value="Web Development" {{old('service') == 'Web Development' ? 'selected' : '' }}  >Web Development</option>
                                             <option value="Web Design" {{old('service') == 'Web Design' ? 'selected' : '' }}>Web Design</option>
                                             <option value="Strategy & Research" {{old('service') == 'Strategy & Research' ? 'selected' : '' }}>Strategy & Research</option>
+                                            <option value="Other" {{old('service') == 'Other' ? 'selected' : '' }}>Other</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="input-group">
-                                        <textarea name="message"  class="form-control" placeholder="Your Message...*">{{ old('message') }}</textarea>
+                                        <textarea name="message"  class="form-control" placeholder="Your Message*..." required>{{ old('message') }}</textarea>
                                     </div>
                                 </div>
-                                <!-- <div class="col-sm-12">
-                                    <div class="input-group custom-file">
-                                        <input type="file" class="form-control custom-file-input">
-                                        <label class="custom-file-label">Choose file</label>
-                                    </div>
-                                </div> -->
-                                <!-- <div class="col-sm-6">
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Estimated Buget" name="estimate" value="{{ old('estimate') }}">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="input-group">
-                                        <select class="form-control" name="priority">
-                                            <option selected>Priority</option>
-                                            <option value="1" {{old('priority') == '1' ? 'selected' : '' }} >One</option>
-                                            <option value="2" {{old('priority') == '2' ? 'selected' : '' }} >Two</option>
-                                            <option value="3" {{old('priority') == '3' ? 'selected' : '' }} >Three</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="input-group">
-                                        <input type="text" class="form-control" placeholder="Country" name="country" value="{{ old('country') }}">
-                                    </div>
-                                </div> -->
-                                <!-- <div class="col-sm-12">
-                                    <div class="input-group">
-                                        <div class="g-recaptcha" data-sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
-                                        <input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
-                                    </div>
-                                </div> -->
                                 <div class="col-sm-12">
                                     <button type="submit" class="btn btn-corner gradient btn-primary">Submit Now</button>
                                 </div>
