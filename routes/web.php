@@ -23,7 +23,7 @@ Route::get('/about', function () {
 
 Route::get('/contact','ContactController@contact');
 
-// Route::post('/contact','ContactController@processData');
+Route::post('/contact', 'ContactController@sendMail');
 
 Route::get('/services', function () {
     return view('services');
@@ -37,5 +37,3 @@ Route::get('/aboutteam', function () {
 // Route::get('/blog', function () {
 //     return view('blog');
 // });
-
-Route::post('/contact', 'ContactController@sendMail');
