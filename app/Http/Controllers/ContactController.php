@@ -29,7 +29,7 @@ class ContactController extends Controller
             'comment' => $request->get('message')
         ];
 
-        \Mail::to('narayananperumba@gmail.com')->send(new \App\Mail\Contact($details));
+        \Mail::to('medhadigitalsolutions@gmail.com')->send(new \App\Mail\Contact($details));
 
     return redirect('/contact#messages')->with('success', 'Thanks for contacting us, We will get back to you soon!');
     }
