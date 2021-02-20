@@ -43,7 +43,7 @@
                                 {{ session()->get('success') }}
                             </div>
                         @endif
-                        <form class="dlab-form style-1" name="contact-form" method="post">
+                        <form class="dlab-form style-1" name="contact-form" method="post" action="/contact">
                             @csrf
                             <div class="section-head style-3">
                                 <h2 class="title m-t10">Contact Us</h2>

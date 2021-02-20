@@ -11,10 +11,32 @@ class ContactController extends Controller
         return view('contact');
     }
 
+    public function sendMail(Request $request) {
+        
+        // $this->validate($request, [
+        //     'name' => 'required',
+        //     'email' => ['required','email'],
+        //     'phone' => ['required','numeric','digits_between:9,12'],
+        //     'message' => 'required'
+        //     ]);
+        
+        $details = [
+            'name' => $request->get('name'),
+            'email' => $request->get('email'),
+            'phone' => $request->get('phone'),
+            'project' => $request->get('project'),
+            'service' => $request->get('service'),
+            'comment' => $request->get('message')
+        ];
+
+        \Mail::to('narayananperumba@gmail.com')->send(new \App\Mail\Contact($details));
+
+    return redirect('/contact#messages')->with('success', 'Thanks for contacting us, We will get back to you soon!');
+    }
+
     public function processData(Request $request){
         $this->validate($request, [
                 'name' => 'required',
-                //'lname' => 'required',
                 'email' => ['required','email'],
                 'phone' => ['required','numeric','digits_between:9,12'],
                 'message' => 'required'
