@@ -42,7 +42,7 @@
                         <p>Our roots are interlinked with <a href="http://sreeraghavapuram.in">Sree Raghavapuram Sabhayogam</a>, an ancient society that works for the vedic dharma.</p>
                         
                         </div>
-                        <div class="col-lg-6 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
+                        <div class="col-lg-4 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
                             <div class="video-bx style-2">
                                 <img src="images/video/pic2.jpg" >
                                
