@@ -34,6 +34,10 @@ Route::get('/services', function () {
 Route::get('/aboutteam', function () {
     return view('aboutteam');
 });
+Route::get('/privacy', function () {
+    return view('privacy');
+});
+
 
 // Route::get('/blog', function () {
 //     return view('blog');
