@@ -206,7 +206,7 @@ Solution is seamlessly available over On-Prem, Shared spaces or on Cloud accordi
                         <input type="radio">
                         <a href="javascript:void(0);">All</a>
                     </li>
-                    <li data-filter="web_development" class="btn">
+                    <li data-filter="web_design" class="btn">
                         <input type="radio">
                         <a href="javascript:void(0);">Web Development</a>
                     </li>
@@ -214,7 +214,7 @@ Solution is seamlessly available over On-Prem, Shared spaces or on Cloud accordi
             </div>
             <div class="clearfix">
                 <ul id="masonry" class="row lightgallery">
-                    <li class="card-container col-lg-6 web_development">
+                    <li class="card-container col-lg-6 web_design">
                         <div class="dlab-box dlab-overlay-box style-3 m-b30">
                         <a href="http://www.sreeraghavapuram.in" target="new"><div class="dlab-media dlab-img-overlay1">
                             A cultural body of the Brahmin community of the Perinchellur Gramam in North Kerala
@@ -222,7 +222,7 @@ Solution is seamlessly available over On-Prem, Shared spaces or on Cloud accordi
                             </div></a>                            
                         </div>
                     </li>
-                    <li class="card-container col-lg-5 web_development">
+                    <li class="card-container col-lg-5 web_design">
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="dlab-box dlab-overlay-box style-3 m-b30">
