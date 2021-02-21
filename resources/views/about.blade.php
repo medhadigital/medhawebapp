@@ -29,7 +29,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
                             <div class="section-head style-3 mb-4">
-                                <h2 class="title m-t10">Medha Digital</h2>
+                                <h2 class="title m-t10">Who are we?</h2>
                                 <div class="dlab-separator style-2 bg-primary"></div>
                             </div>
                             <p>Started our journey way back in early 2016 by joining a few young minds together to share the knowledge and utilize untapped potentials. Within a couple of years we could move from forming to storming exhibiting commendable performance in subsequent years.</p>
