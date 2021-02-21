@@ -130,11 +130,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Our Services</h5>
                             <ul>
-                                <li><a href="/">Strategy & Research</a></li>
-                                <li><a href="/">Web Development</a></li>
-                                <li><a href="/">Web Solution</a></li>
-                                <li><a href="/">Digital Marketing</a></li>
-                                <li><a href="/">App Design </a></li>
+                                <li><a href="/services">Strategy & Research</a></li>
+                                <li><a href="/services">Web Development</a></li>
+                                <li><a href="/services">Web Solution</a></li>
+                                <li><a href="/services">Digital Marketing</a></li>
+                                <li><a href="/services">App Design </a></li>
                             </ul>
                         </div>
                     </div>
@@ -142,11 +142,11 @@
                         <div class="widget widget_services style-1">
                             <h5 class="footer-title">Other links</h5>
                             <ul>
-                                <li><a href="/">FAQ</a></li>
-                                <li><a href="/">Portfolio</a></li>
-                                <li><a href="/">Privacy Policy</a></li>
-                                <li><a href="/">Terms & Conditions</a></li>
-                                <li><a href="/">Support </a></li>
+                                <!-- <li><a href="/#gettouch">FAQ</a></li> -->
+                                <li><a href="/#portfolio">Portfolio</a></li>
+                                <li><a href="/privacy">Privacy Policy</a></li>
+                                <!-- <li><a href="/">Terms & Conditions</a></li> -->
+                                <!-- <li><a href="/">Support </a></li> -->
                             </ul>
                         </div>
                     </div>

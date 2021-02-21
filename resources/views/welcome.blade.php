@@ -27,7 +27,7 @@
     </div>
 
     <!-- Services -->
-    <section class="content-inner">
+    <section class="content-inner" id="services">
         <div class="container">
             <div class="section-head style-3 text-center mb-4">
                 <h2 class="title m-t10">Our Specialization</h2>
@@ -193,7 +193,7 @@
     </section>
 
     <!-- Projects -->
-    <section class="content-inner bg-gray">
+    <section class="content-inner bg-gray" id="portfolio">
         <div class="container">
             <div class="section-head style-3 text-center">
                 <h2 class="title m-t10">Our Portfolio</h2>
@@ -313,7 +313,7 @@
     </section>
 
     <!-- Contact Form -->
-    <section class="content-inner"id="gettouch">
+    <section class="content-inner" id="gettouch">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
