@@ -37,7 +37,7 @@
                         <p>At Medha, as an organization committed towards empowering our society, we are keen in transforming the rural economy by creating employment opportunities through innovative digital products, solutions and services for businesses across the globe.</p> 
                         <p>Our development strategy is simple and transparent. We empower students with industrial training and utilize the potential of qualified resources idling at home.</p>
                         <p style="font-style: italic;">For us, addressing rural brain drain is how we foresee it!!!</p>
-                        <p>Foresee for us is <strong>4C</strong>-enabling the resources to <strong>"Conceive, Compete, Collaborate, Contribute."</strong></p>
+                        <p>Foresee for us is <strong>4C</strong>-enabling the resources to <strong>"Conceive, Compete, Collaborate & Contribute."</strong></p>
                         <p>We evaluate, educate and execute our <strong>4C</strong>'s through our young minds. We apply commercial strategies to maximize improvements in financial, social and environmental well-being. Our experts are always working to provide next generation solutions to your business problems. We work closely with you to realise your business dreams.</p>
                         <p>Our roots are interlinked with <a href="http://sreeraghavapuram.in">Sree Raghavapuram Sabhayogam</a>, an ancient society that works for the vedic dharma.</p>
                         
