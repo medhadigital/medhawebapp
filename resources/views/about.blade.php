@@ -27,7 +27,7 @@
             <div class="content-inner bg-gray">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
+                        <div class="col-lg-8 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
                             <div class="section-head style-3 mb-4">
                                 <h2 class="title m-t10">Medha Digital</h2>
                                 <div class="dlab-separator style-2 bg-primary"></div>
