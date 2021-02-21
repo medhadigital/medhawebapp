@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Idea & Analysis</h4>
-                                    <p>Ideation is a n integral part, it should be experiential and logical. Our expertise and focus are primarily with agriculture, social empowerment, marketing, entertainment, banking and finance, health sector, etc.</p>
+                                    <p>Ideation is an integral part, it should be experiential and logical. Our expertise and focus are primarily with agriculture, social empowerment, marketing, entertainment, banking and finance, health sector, etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Development</h4>
-                                    <p>We are agile. Handpicked professionals who work under a pressure free environment to deliver high quality output. TDD, DDD, BDD or FDD... we use the right tactics for the right result.</p>
+                                    <p>We are agile with pressure free environment to deliver high quality output. TDD, DDD, BDD or FDD... we use the right tactics for the right result.</p>
                                 </div>
                             </div>
                         </div>
@@ -181,8 +181,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Testing & Launching</h4>
-                                    <p>Testing needed right knowledge more or less the same as development, may be even more. Our domain experts continuously monitor and upskill the team. We use feature enriched test suits to ensure the quality.
-Solution is seamlessly available over On-Prem, Shared spaces or on Cloud according to your need and wallet.
+                                    <p>We use feature enriched test suits to ensure the quality. Solution is seamlessly available over On-Prem, Shared spaces or on Cloud according to your need and wallet.
 </p>
                                 </div>
                             </div>
