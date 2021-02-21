@@ -39,7 +39,7 @@
                         <p style="font-style: italic;">For us, addressing rural brain drain is how we foresee it!!!</p>
                         <p>Foresee for us is <strong>4C</strong>-enabling the resources to <strong>"Conceive, Compete, Collaborate & Contribute."</strong></p>
                         <p>We evaluate, educate and execute our <strong>4C</strong>'s through our young minds. We apply commercial strategies to maximize improvements in financial, social and environmental well-being. Our experts are always working to provide next generation solutions to your business problems. We work closely with you to realise your business dreams.</p>
-                        <p>Our roots are interlinked with <a href="http://sreeraghavapuram.in">Sree Raghavapuram Sabhayogam</a>, an ancient society that works for the vedic dharma.</p>
+                        <p>Our roots are interlinked with <a href="http://sreeraghavapuram.in" target="_blank" title="Visit Sree Raghavapuram Sabhayogam">Sree Raghavapuram Sabhayogam</a>, an ancient society that works for the vedic dharma.</p>
                         
                         </div>
                         <div class="col-lg-4 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
