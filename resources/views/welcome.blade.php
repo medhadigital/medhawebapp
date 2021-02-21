@@ -201,11 +201,11 @@
             </div>
             <div class="site-filters style-3 clearfix center m-b40">
                 <ul class="filters" data-toggle="buttons">
-                <li data-filter="" class="btn active">
+                    <!-- <li data-filter="" class="btn active">
                         <input type="radio">
                         <a href="javascript:void(0);">All</a>
-                    </li>
-                    <li data-filter="web_design" class="btn">
+                    </li> -->
+                    <li data-filter="web_development" class="btn">
                         <input type="radio">
                         <a href="javascript:void(0);">Web Development</a>
                     </li>
@@ -213,29 +213,32 @@
             </div>
             <div class="clearfix">
                 <ul id="masonry" class="row lightgallery">
-                    <li class="card-container col-lg-6 web_design">
-                        <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                        <a href="http://www.sreeraghavapuram.in" target="new"><div class="dlab-media dlab-img-overlay1">
-                            A cultural body of the Brahmin community of the Perinchellur Gramam in North Kerala
-                                <img src="images/projects/project-1/pic1.png" alt="">
-                            </div></a>                            
-                        </div>
-                    </li>
-                    <li class="card-container col-lg-5 web_design">
+                    <li class="card-container col-lg-12 web_development" title="Powered by Medha Digital">
                         <div class="row">
-                            <div class="col-sm-12">
+                            <div class="col-sm-6">
                                 <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                                <a href="http://www.oushadhamitra.com" target="new">
                                     <div class="dlab-media dlab-img-overlay1">
-                                    A cooperative farmers union cultivating organic and natural produce which is used in Ayurvedic and Natural therapies.
-                                    <img src="images/projects/project-1/oushadhamithra.png" alt="">
-                                    </div></a>                               
+                                        <img src="images/projects/project-1/pic1.png" alt="">
+                                    </div>
+                                    <div class="dlab-info">
+                                        <h5 class="title"><a href="http://sreeraghavapuram.in" target="_blank">Sree Raghavapuram Sabhayogam</a></h5>
+                                        <p class="post-author"><a href="http://sreeraghavapuram.in" target="_blank">A cultural body of the Brahmin community of the Perinchellur Gramam in North Kerala.</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="dlab-box dlab-overlay-box style-3 m-b30">
+                                    <div class="dlab-media dlab-img-overlay1">
+                                        <img src="images/projects/project-1/oushadhamithra.png" alt="">
+                                    </div>
+                                    <div class="dlab-info">
+                                        <h5 class="title"><a href="http://oushadhamithra.com" target="_blank">Oushadhamithra</a></h5>
+                                        <p class="post-author"><a href="http://oushadhamithra.com" target="_blank">A cooperative farmers union cultivating organic and natural produce which is used in Ayurvedic and Natural therapies.</a></p>
+                                    </div>                            
                                 </div>
                             </div>                           
                         </div>
                     </li>
-                   
-                   
                 </ul>
             </div>
         </div>
