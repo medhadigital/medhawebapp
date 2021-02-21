@@ -30,7 +30,7 @@
     <section class="content-inner">
         <div class="container">
             <div class="section-head style-3 text-center mb-4">
-                <h2 class="title m-t10">Our Speciallization</h2>
+                <h2 class="title m-t10">Our Specialization</h2>
                 <div class="dlab-separator style-2 bg-primary"></div>
             </div>
             <div class="row">
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Idea & Analysis</h4>
-                                    <p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+                                    <p>Ideation is an integral part, it should be experiential and logical. Our expertise and focus are primarily with agriculture, social empowerment, marketing, entertainment, banking and finance, health sector, etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Designing</h4>
-                                    <p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+                                    <p>We understand the language of an end user and design for your expectation.</p>
                                 </div>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
                                 </div>
                                 <div class="icon-content">
                                     <h4 class="dlab-tilte text-capitalize">Development</h4>
-                                    <p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+                                    <p>We are agile with pressure free environment to deliver high quality output. TDD, DDD, BDD or FDD... we use the right tactics for the right result.</p>
                                 </div>
                             </div>
                         </div>
@@ -180,8 +180,9 @@
                                     <a href="javascript:void(0);" class="icon-cell text-white"><i class="flaticon-rocket"></i></a>
                                 </div>
                                 <div class="icon-content">
-                                    <h4 class="dlab-tilte text-capitalize">Testing & Lunching</h4>
-                                    <p>Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.</p>
+                                    <h4 class="dlab-tilte text-capitalize">Testing & Launching</h4>
+                                    <p>We use feature enriched test suits to ensure the quality. Solution is seamlessly available over On-Prem, Shared spaces or on Cloud according to your need and wallet.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -200,106 +201,42 @@
             </div>
             <div class="site-filters style-3 clearfix center m-b40">
                 <ul class="filters" data-toggle="buttons">
-                    <li data-filter="" class="btn active">
+                    <!-- <li data-filter="" class="btn active">
                         <input type="radio">
                         <a href="javascript:void(0);">All</a>
-                    </li>
-                    <li data-filter="web_design" class="btn">
-                        <input type="radio">
-                        <a href="javascript:void(0);">Web Design</a>
-                    </li>
+                    </li> -->
                     <li data-filter="web_development" class="btn">
                         <input type="radio">
                         <a href="javascript:void(0);">Web Development</a>
-                    </li>
-                    <li data-filter="branding" class="btn">
-                        <input type="radio">
-                        <a href="javascript:void(0);">Branding</a>
-                    </li>
-                    <li data-filter="mobile_app" class="btn">
-                        <input type="radio">
-                        <a href="javascript:void(0);">Mobile App</a>
-                    </li>
-                    <li data-filter="seo" class="btn">
-                        <input type="radio">
-                        <a href="javascript:void(0);">SEO</a>
                     </li>
                 </ul>
             </div>
             <div class="clearfix">
                 <ul id="masonry" class="row lightgallery">
-                    <li class="card-container col-lg-6 web_design">
-                        <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                            <div class="dlab-media dlab-img-overlay1">
-                                <img src="images/projects/project-1/pic1.png" alt="">
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="title"><a href="javascript:void(0);">Software Landing Page Design</a></h5>
-                                <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="card-container col-lg-6 web_development seo">
+                    <li class="card-container col-lg-12 web_development" title="Powered by Medha Digital">
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                     <div class="dlab-media dlab-img-overlay1">
-                                        <img src="images/projects/project-1/pic2.jpeg" alt="">
+                                        <img src="images/projects/project-1/pic1.png" alt="">
                                     </div>
                                     <div class="dlab-info">
-                                        <h5 class="title"><a href="javascript:void(0);">Software </a></h5>
-                                        <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
+                                        <h5 class="title"><a href="http://sreeraghavapuram.in" target="_blank">Sree Raghavapuram Sabhayogam</a></h5>
+                                        <p class="post-author"><a href="http://sreeraghavapuram.in" target="_blank">A cultural body of the Brahmin community of the Perinchellur Gramam in North Kerala.</a></p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="dlab-box dlab-overlay-box style-3 m-b30">
                                     <div class="dlab-media dlab-img-overlay1">
-                                        <img src="images/projects/project-1/pic3.jpg" alt="">
+                                        <img src="images/projects/project-1/oushadhamithra.png" alt="">
                                     </div>
                                     <div class="dlab-info">
-                                        <h5 class="title"><a href="javascript:void(0);">Software</a></h5>
-                                        <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
-                                    </div>
+                                        <h5 class="title"><a href="http://oushadhamithra.com" target="_blank">Oushadhamithra</a></h5>
+                                        <p class="post-author"><a href="http://oushadhamithra.com" target="_blank">A cooperative farmers union cultivating organic and natural produce which is used in Ayurvedic and Natural therapies.</a></p>
+                                    </div>                            
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="card-container col-lg-6 web_development web_design">
-                        <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                            <div class="dlab-media dlab-img-overlay1">
-                                <img src="images/projects/project-1/pic6.jpeg" alt="">
-                            </div>
-                            <div class="dlab-info">
-                                <h5 class="title"><a href="javascript:void(0);">Software Landing Page Design</a></h5>
-                                <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="card-container col-lg-6 mobile_app branding">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                                    <div class="dlab-media dlab-img-overlay1">
-                                        <img src="images/projects/project-1/pic4.jpeg" alt="">
-                                    </div>
-                                    <div class="dlab-info">
-                                        <h5 class="title"><a href="javascript:void(0);">Software </a></h5>
-                                        <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                                    <div class="dlab-media dlab-img-overlay1">
-                                        <img src="images/projects/project-1/pic5.jpg" alt="">
-                                    </div>
-                                    <div class="dlab-info">
-                                        <h5 class="title"><a href="javascript:void(0);">Software</a></h5>
-                                        <p class="post-author">By <a href="javascript:void(0);">Jhone Doe</a></p>
-                                    </div>
-                                </div>
-                            </div>
+                            </div>                           
                         </div>
                     </li>
                 </ul>
