@@ -30,7 +30,7 @@
     <section class="content-inner">
         <div class="container">
             <div class="section-head style-3 text-center mb-4">
-                <h2 class="title m-t10">Our Speciallization</h2>
+                <h2 class="title m-t10">Our Specialization</h2>
                 <div class="dlab-separator style-2 bg-primary"></div>
             </div>
             <div class="row">
@@ -180,7 +180,7 @@
                                     <a href="javascript:void(0);" class="icon-cell text-white"><i class="flaticon-rocket"></i></a>
                                 </div>
                                 <div class="icon-content">
-                                    <h4 class="dlab-tilte text-capitalize">Testing & Lunching</h4>
+                                    <h4 class="dlab-tilte text-capitalize">Testing & Launching</h4>
                                     <p>Testing needed right knowledge more or less the same as development, may be even more. Our domain experts continuously monitor and upskill the team. We use feature enriched test suits to ensure the quality.
 Solution is seamlessly available over On-Prem, Shared spaces or on Cloud according to your need and wallet.
 </p>
@@ -202,36 +202,35 @@ Solution is seamlessly available over On-Prem, Shared spaces or on Cloud accordi
             </div>
             <div class="site-filters style-3 clearfix center m-b40">
                 <ul class="filters" data-toggle="buttons">
-                    <li data-filter="sri_raghavapuram" class="btn active">
+                <li data-filter="" class="btn active">
                         <input type="radio">
-                        <a href="javascript:void(0);">Sree Raghavgapuram Sabhayogam</a>
+                        <a href="javascript:void(0);">All</a>
                     </li>
-                    <li data-filter="oushadhamitra" class="btn">
+                    <li data-filter="web_development" class="btn">
                         <input type="radio">
-                        <a href="javascript:void(0);">Oushadhamithra</a>
+                        <a href="javascript:void(0);">Web Development</a>
                     </li>
-                    
                 </ul>
             </div>
             <div class="clearfix">
                 <ul id="masonry" class="row lightgallery">
-                    <li class="card-container col-lg-12 sri_raghavapuram">
+                    <li class="card-container col-lg-6 web_development">
                         <div class="dlab-box dlab-overlay-box style-3 m-b30">
-                            <div class="dlab-media dlab-img-overlay1">
+                        <a href="http://www.sreeraghavapuram.in" target="new"><div class="dlab-media dlab-img-overlay1">
                             A cultural body of the Brahmin community of the Perinchellur Gramam in North Kerala
                                 <img src="images/projects/project-1/pic1.png" alt="">
-                            </div>
-                            
+                            </div></a>                            
                         </div>
                     </li>
-                    <li class="card-container col-lg-12 oushadhamitra">
+                    <li class="card-container col-lg-5 web_development">
                         <div class="row">
-                            <div class="col-sm-6">
+                            <div class="col-sm-12">
                                 <div class="dlab-box dlab-overlay-box style-3 m-b30">
+                                <a href="http://www.oushadhamitra.com" target="new">
                                     <div class="dlab-media dlab-img-overlay1">
                                     A cooperative farmers union cultivating organic and natural produce which is used in Ayurvedic and Natural therapies.
-                                        <img src="images/projects/project-1/oushadhamithra.png" alt="">
-                                    </div>                                    
+                                    <img src="images/projects/project-1/oushadhamithra.png" alt="">
+                                    </div></a>                               
                                 </div>
                             </div>                           
                         </div>
