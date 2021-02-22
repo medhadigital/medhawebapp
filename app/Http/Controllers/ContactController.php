@@ -20,9 +20,10 @@ class ContactController extends Controller
         }
         
         $this->validate($request, [
-            'name' => 'required',
+            'name' => ['required', 'string'],
             'email' => ['required','email'],
-            'message' => 'required'
+            'phone' => ['nullable','numeric','digits_between:9,12'],
+            'message' => ['required', 'string']
             ]);
         
         $details = [
