@@ -23,6 +23,7 @@ class ContactController extends Controller
             'name' => ['required', 'string'],
             'email' => ['required','email'],
             'phone' => ['nullable','numeric','digits_between:9,12'],
+            'subject' => ['nullable', 'string'],
             'message' => ['required', 'string']
             ]);
         
