@@ -25,6 +25,8 @@ Route::get('/contact','ContactController@contact');
 
 Route::post('/contact', 'ContactController@sendMail');
 
+Route::post('/gettouch', 'ContactController@sendMail');
+
 Route::get('/services', function () {
     return view('services');
 });
@@ -33,6 +35,7 @@ Route::get('/services', function () {
 Route::get('/aboutteam', function () {
     return view('aboutteam');
 });
+
 Route::get('/privacy', function () {
     return view('privacy');
 });

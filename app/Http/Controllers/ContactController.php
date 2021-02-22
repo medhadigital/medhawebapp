@@ -12,11 +12,19 @@ class ContactController extends Controller
     }
 
     public function sendMail(Request $request) {
+
+        $redirect = '/contact#messages';
+
+        if ($request->is('gettouch')) {
+            $redirect = '/#gettouch';
+        }
         
         $this->validate($request, [
-            'name' => 'required',
+            'name' => ['required', 'string'],
             'email' => ['required','email'],
-            'message' => 'required'
+            'phone' => ['nullable','numeric','digits_between:9,12'],
+            'subject' => ['nullable', 'string'],
+            'message' => ['required', 'string']
             ]);
         
         $details = [
@@ -32,6 +40,6 @@ class ContactController extends Controller
 
         \Mail::to($to)->send(new \App\Mail\Contact($details));
 
-    return redirect('/contact#messages')->with('success', 'Thanks for contacting us, We will get back to you soon!');
+    return redirect($redirect)->with('success', 'Thanks for contacting us, We will get back to you soon!');
     }
 }
