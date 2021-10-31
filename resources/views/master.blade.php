@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,6 +70,7 @@
                             <!-- <li><a href="/blog">Blog</a></li> -->
 
                             <li><a href="/contact">Contact Us</a></li>
+                            <li><a href="/career">Careers</a></li>
 
 
                         </ul>

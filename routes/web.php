@@ -40,6 +40,10 @@ Route::get('/privacy', function () {
     return view('privacy');
 });
 
+Route::get('/career', function () {
+    return view('career');
+});
+
 
 // Route::get('/blog', function () {
 //     return view('blog');
