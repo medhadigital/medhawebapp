@@ -42,7 +42,7 @@ Route::get('/privacy', function () {
 
 //Route::get('/career', function () {
 //return view('career');
-// });
+ //});
 
 
 // Route::get('/blog', function () {
