@@ -12,7 +12,7 @@
                         <div class="banner-content text-white">
                             <h6 data-wow-delay="0.5s" data-wow-duration="3s" class="wow fadeInUp sub-title text-primary">Welcome to </h6>
                             <h1 data-wow-delay="1s" data-wow-duration="3s" class="wow fadeInUp m-b20">Medha Digital</h1>
-                            <p  data-wow-delay="1.5s" data-wow-duration="3s" class="wow fadeInUp m-b30">The First Distributed Team of Developers for your projects.</p>
+                            <p  data-wow-delay="1.5s" data-wow-duration="3s" class="wow fadeInUp m-b30">Empowering rural techanologiets to build innovative digital products with global guidance.</p>
                             <a  data-wow-delay="2s" data-wow-duration="3s" href="/about" class="wow fadeInUp  btn btn-corner gradient btn-primary">Know More</a>
                         </div>
                     </div>
@@ -88,14 +88,15 @@
                         <h2 class="title m-t10">Why Medha</h2>
                         <div class="dlab-separator style-2 bg-primary"></div>
                     </div>
-                    <p>Do you want to be part of community development? Like to support social reforming? or appreciate the local talents?</p>
-                    <p>On top of everything, are you looking for a high performing world class solution with round the clock support?</p>
+                    <p> True to our objectives,we are headquartered at rural area ,Cheruthazham, a viilage of Kerala in Kannur  district ,India.</p>
+                    <p>As a disributed company we engage technicians and technocrats from villages with an expert guiding panel across the world</p>
+                    <p>if you hail from rural area,intent to uplift rural and personal economy,trust in distributed power of working   and computing,desire to solve our customers problems,we would love to hear from you</p>
                     <p> It's your chance to... <q><strong class="text-capitalize">Conceive, Compete, Collaborate & Contribute!.</strong></q></p>
                     <!-- <div class="row">
                         <div class="col-sm-4 m-b30 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                             <div class="dlab-content-bx style-2 text-center">
                                 <div class="icon-content">
-                                    <h2 class="counter m-b0">9875</h2>
+                                    <h2 class="counter m-b0">9875</h2>S
                                     <span class="title">Satisfied Clients</span>
                                 </div>
                             </div>

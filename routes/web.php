@@ -39,6 +39,9 @@ Route::get('/aboutteam', function () {
 Route::get('/privacy', function () {
     return view('privacy');
 });
+Route::get('/privacy1', function () {
+    return view('privacy1');
+});
 
 Route::get('/career', function () {
     return view('career');
