@@ -161,7 +161,7 @@
                                 </li> -->
                                 <li>
                                     <i class="fa fa-envelope gradient"></i>
-                                    <a href="mailto:team@medha.digital" target="_blank" class="text-white">team@medha.digital</a>
+                                    <a href="team@medha.digital" target="_blank" class="text-white">team@medha.digital</a>
                                 </li>
                                
                                 <li>
