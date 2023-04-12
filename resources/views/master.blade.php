@@ -179,7 +179,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-12 text-center">
-                        <span class="copyright-text">Copyright © 2020 Medha Digital All rights reserved.</span>
+                        <span class="copyright-text">Copyright &copy; <?php echo date("Y"); ?> Medha Digital All rights reserved.</span>
                     </div>
                 </div>
             </div>
